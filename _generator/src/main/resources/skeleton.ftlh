@@ -1,3 +1,4 @@
+<#macro pre>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,8 +27,9 @@
         <a href="/blogs">blogs</a>
     </nav>
 </header>
-<h2>blogs</h2>
-<br/>
-<h4><a href="https://mirror.xyz/wbarobinson.eth">Will Robinson</a></h4>
+</#macro>
+
+<#macro post>
 </body>
 </html>
+</#macro>
